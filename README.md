@@ -3,48 +3,6 @@
 # 🔐 **Arsenal de Segurança**  
 ### *Onde scripts viram escudos e exploits viram lições.*
 
-<!-- Badges principais -->
-[![GitHub stars](https://img.shields.io/github/stars/LamSecurity/LamSecurity?style=social)](https://github.com/LamSecurity/LamSecurity)
-[![GitHub forks](https://img.shields.io/github/forks/LamSecurity/LamSecurity?style=social)](https://github.com/LamSecurity/LamSecurity)
-[![GitHub issues](https://img.shields.io/github/issues/LamSecurity/LamSecurity)](https://github.com/LamSecurity/LamSecurity/issues)
-[![GitHub license](https://img.shields.io/github/license/LamSecurity/LamSecurity)](https://github.com/LamSecurity/LamSecurity/blob/main/LICENSE)
-[![GitHub last commit](https://img.shields.io/github/last-commit/LamSecurity/LamSecurity)](https://github.com/LamSecurity/LamSecurity/commits/main)
-
-<!-- Status e análise -->
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=LamSecurity_LamSecurity&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=LamSecurity_LamSecurity)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=LamSecurity_LamSecurity&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=LamSecurity_LamSecurity)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=LamSecurity_LamSecurity&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=LamSecurity_LamSecurity)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=LamSecurity_LamSecurity&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=LamSecurity_LamSecurity)
-
-<!-- Linguagens -->
-[![Python](https://img.shields.io/badge/Language-Python-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![Shell Script](https://img.shields.io/badge/Language-Shell_Script-yellow?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![YAML](https://img.shields.io/badge/Language-YAML-critical?logo=yaml&logoColor=white)](https://yaml.org/)
-[![PowerShell](https://img.shields.io/badge/Language-PowerShell-brightgreen?logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
-<!-- Linguagens de Segurança -->
-[![Python](https://img.shields.io/badge/Language-Python-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![Bash](https://img.shields.io/badge/Language-Bash-yellow?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![PowerShell](https://img.shields.io/badge/Language-PowerShell-brightgreen?logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
-[![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Go](https://img.shields.io/badge/Language-Go-00ADD8?logo=go&logoColor=white)](https://go.dev/)
-[![Rust](https://img.shields.io/badge/Language-Rust-000000?logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![C](https://img.shields.io/badge/Language-C-00599C?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![SQL](https://img.shields.io/badge/Language-SQL-4479A1?logo=oracle&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
-[![YAML](https://img.shields.io/badge/Language-YAML-critical?logo=yaml&logoColor=white)](https://yaml.org/)
-[![Assembly](https://img.shields.io/badge/Language-Assembly-000000?logo=assembly&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
-
-<!-- Pipelines e CI/CD -->
-[![Azure DevOps Builds](https://img.shields.io/azure-devops/build/LamSecurity/seu-projeto/1?label=Build&logo=azure-devops)](https://dev.azure.com/LamSecurity/seu-projeto/_build)
-[![Azure DevOps Tests](https://img.shields.io/azure-devops/tests/LamSecurity/seu-projeto/1?label=Tests&logo=azure-devops)](https://dev.azure.com/LamSecurity/seu-projeto/_test)
-
-<!-- Segurança -->
-[![CodeQL](https://github.com/LamSecurity/LamSecurity/actions/workflows/codeql.yml/badge.svg)](https://github.com/LamSecurity/LamSecurity/actions/workflows/codeql.yml)
-[![Gitleaks](https://github.com/LamSecurity/LamSecurity/actions/workflows/gitleaks.yml/badge.svg)](https://github.com/LamSecurity/LamSecurity/actions/workflows/gitleaks.yml)
-
-<!-- Outros -->
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-
 <div>
   <a href="https://github.com/LamSecurity">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LamSecurity&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
