@@ -1,3 +1,5 @@
+<div data-color-mode="dark" data-light-theme="light" data-dark-theme="dark">
+
 <div>
   <a href="https://github.com/LamSecurity">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lamsecurity&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -57,4 +59,7 @@
 </div>
 
 Bem-vindo ao meu **Laboratório de Segurança Cibernética** — uma coleção curada de ferramentas, scripts, PoCs e pipelines de automação construídos para descobrir, analisar e se defender contra ameaças modernas.
+
+
+</div>
 
