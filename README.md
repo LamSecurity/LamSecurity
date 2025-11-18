@@ -36,13 +36,11 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
-</div>
 
-<div>
   <a href="https://github.com/LamSecurity">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LamSecurity&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
-</div>
+
 
 ![Snake animation](https://raw.githubusercontent.com/LamSecurity/LamSecurity/refs/heads/output/dist/github-contribution-grid-snake-dark.svg)
 
@@ -52,7 +50,7 @@
 
 Bem-vindo ao meu **Laboratório de Segurança Cibernética** — uma coleção curada de ferramentas, scripts, PoCs e pipelines de automação construídos para descobrir, analisar e se defender contra ameaças modernas.
 
-
+</div>
 
 
 
