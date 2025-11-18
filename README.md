@@ -1,4 +1,4 @@
-<div data-color-mode="dark" data-light-theme="light" data-dark-theme="dark">
+<div style="background-color:#121212; color:white; padding:20px; border-radius:8px; font-family:Arial, sans-serif;">
 
 # 🔐 **Arsenal de Segurança**  
 ### *Onde scripts viram escudos e exploits viram lições.*
@@ -67,19 +67,4 @@ E um **diário público** da minha jornada pelas sombras do código, redes e seg
 | 🕵️ **Análise de Logs & SIEM** | Parsers e dashboards personalizados (Python + Grafana) para monitorar logs do Windows, tráfego de firewall e alertas do Microsoft Defender for Server. |
 | 🧪 **Ferramentas de Laboratório** | Configurações do Kali Linux em VM (VirtualBox), mapeamentos DNS locais para testes e scripts para evitar bloqueio de tela. |
 | ⚙️ **Segurança em CI/CD** | Templates YAML do Azure DevOps com portões de segurança, atualizadores em massa e regras para proteger pipelines contra exclusões acidentais. |
-| 🌐 **Testes de Infraestrutura** | Ferramentas de varredura de rede, validação de regras de firewall e análise de faixas de IP — tudo construído para testar meu próprio ambiente. |
-| 📊 **SonarQube + CSPM** | Políticas e relatórios para impor qualidade de código e conformidade com postura de segurança em nuvem em múltiplas organizações. |
-
-> 💡 *Todas as ferramentas seguem uma regra: Sem falsificação de user-agent. Sem mágica. Apenas código limpo e auditável.*
-
----
-
-## 🚫 O que você **não** vai encontrar
-
-- WSL? ❌ Não aqui.  
-- Ferramentas copiadas? ❌ Apenas o que construí, testei e entendi.  
-- "Segurança teatral"? ❌ Apenas exploits reais, correções reais, lições reais.
-
----
-
-## 📂 Estrutura
+| 🌐 **Testes de Infraestrutura** | Ferramentas de varredura de rede, validação
