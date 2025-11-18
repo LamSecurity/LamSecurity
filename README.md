@@ -42,7 +42,8 @@
   </a>
 </div>
 
-![Snake animation]([https://raw.githubusercontent.com/LamSecurity/LamSecurity/refs/heads/output/dist/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/LamSecurity/LamSecurity/refs/heads/output/github-contribution-grid-snake.svg))
+![Snake animation](https://raw.githubusercontent.com/LamSecurity/LamSecurity/refs/heads/output/dist/github-contribution-grid-snake-dark.svg)
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213844619-03ff75a1-593b-4c0f-8a7d-eb4b57ed6f7d.gif" width="500" />
