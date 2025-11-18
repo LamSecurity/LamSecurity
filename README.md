@@ -15,10 +15,5 @@
   <img src="https://user-images.githubusercontent.com/74038190/213844619-03ff75a1-593b-4c0f-8a7d-eb4b57ed6f7d.gif" width="500" />
 </div>
 
-Bem-vindo ao meu **Laboratório de Segurança Cibernética** — uma coleção curada de ferramentas, scripts, PoCs e pipelines de automação construídos para descobrir, analisar e se defender contra ameaças modernas.
 
-Este não é apenas um repositório.  
-É um **laboratório vivo**.  
-Uma **arsenal digital**.  
-E um **diário público** da minha jornada pelas sombras do código, redes e segredos.
 
