@@ -8,17 +8,43 @@
 
   
 <div align="center">
+<div align="center">
 
 # 🔐 **Arsenal de Segurança**  
 ### *Onde scripts viram escudos e exploits viram lições.*
 
 > *“A melhor defesa é um bom ataque — e um bem documentado.”*
 
+<!-- Badges principais -->
 [![GitHub stars](https://img.shields.io/github/stars/seu-usuario/seu-repo?style=social)](https://github.com/seu-usuario/seu-repo)
 [![GitHub forks](https://img.shields.io/github/forks/seu-usuario/seu-repo?style=social)](https://github.com/seu-usuario/seu-repo)
 [![GitHub issues](https://img.shields.io/github/issues/seu-usuario/seu-repo)](https://github.com/seu-usuario/seu-repo/issues)
 [![GitHub license](https://img.shields.io/github/license/seu-usuario/seu-repo)](https://github.com/seu-usuario/seu-repo/blob/main/LICENSE)
-[![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/seu-repo)](https://github.com/seu-usuario/seu-repo)
+[![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/seu-repo)](https://github.com/seu-usuario/seu-repo/commits/main)
+
+<!-- Status e análise -->
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=seu-usuario_seu-repo&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=seu-usuario_seu-repo)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=seu-usuario_seu-repo&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=seu-usuario_seu-repo)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=seu-usuario_seu-repo&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=seu-usuario_seu-repo)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=seu-usuario_seu-repo&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=seu-usuario_seu-repo)
+
+<!-- Linguagens -->
+[![Python](https://img.shields.io/badge/Language-Python-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Shell Script](https://img.shields.io/badge/Language-Shell_Script-yellow?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![YAML](https://img.shields.io/badge/Language-YAML-critical?logo=yaml&logoColor=white)](https://yaml.org/)
+[![PowerShell](https://img.shields.io/badge/Language-PowerShell-brightgreen?logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
+
+<!-- Pipelines e CI/CD -->
+[![Azure DevOps Builds](https://img.shields.io/azure-devops/build/seu-usuario/seu-projeto/1?label=Build&logo=azure-devops)](https://dev.azure.com/seu-usuario/seu-projeto/_build)
+[![Azure DevOps Tests](https://img.shields.io/azure-devops/tests/seu-usuario/seu-projeto/1?label=Tests&logo=azure-devops)](https://dev.azure.com/seu-usuario/seu-projeto/_test)
+
+<!-- Segurança -->
+[![CodeQL](https://github.com/seu-usuario/seu-repo/actions/workflows/codeql.yml/badge.svg)](https://github.com/seu-usuario/seu-repo/actions/workflows/codeql.yml)
+[![Gitleaks](https://github.com/seu-usuario/seu-repo/actions/workflows/gitleaks.yml/badge.svg)](https://github.com/seu-usuario/seu-repo/actions/workflows/gitleaks.yml)
+
+<!-- Outros -->
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 </div>
 
