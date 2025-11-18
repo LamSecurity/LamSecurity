@@ -21,6 +21,17 @@
 [![Shell Script](https://img.shields.io/badge/Language-Shell_Script-yellow?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![YAML](https://img.shields.io/badge/Language-YAML-critical?logo=yaml&logoColor=white)](https://yaml.org/)
 [![PowerShell](https://img.shields.io/badge/Language-PowerShell-brightgreen?logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
+<!-- Linguagens de Segurança -->
+[![Python](https://img.shields.io/badge/Language-Python-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Bash](https://img.shields.io/badge/Language-Bash-yellow?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![PowerShell](https://img.shields.io/badge/Language-PowerShell-brightgreen?logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
+[![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Go](https://img.shields.io/badge/Language-Go-00ADD8?logo=go&logoColor=white)](https://go.dev/)
+[![Rust](https://img.shields.io/badge/Language-Rust-000000?logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![C](https://img.shields.io/badge/Language-C-00599C?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![SQL](https://img.shields.io/badge/Language-SQL-4479A1?logo=oracle&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![YAML](https://img.shields.io/badge/Language-YAML-critical?logo=yaml&logoColor=white)](https://yaml.org/)
+[![Assembly](https://img.shields.io/badge/Language-Assembly-000000?logo=assembly&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
 
 <!-- Pipelines e CI/CD -->
 [![Azure DevOps Builds](https://img.shields.io/azure-devops/build/LamSecurity/seu-projeto/1?label=Build&logo=azure-devops)](https://dev.azure.com/LamSecurity/seu-projeto/_build)
