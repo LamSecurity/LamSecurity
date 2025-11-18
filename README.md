@@ -44,7 +44,7 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/LamSecurity/LamSecurity/blob/output/dist/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/LamSecurity/LamSecurity/raw/output/dist/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213844619-03ff75a1-593b-4c0f-8a7d-eb4b57ed6f7d.gif" width="500" />
